@@ -12,7 +12,7 @@ The report is divided into three main pages:
 Each page includes built-in navigation links to provide a seamless user experience.
 
 
-## 🔧 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Power BI**
 - **DAX (Data Analysis Expressions)**
